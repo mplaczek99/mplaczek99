@@ -4,8 +4,7 @@
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/>
-  Hey, I'm <a href="https://mplaczek99.github.io/"><img src="https://avatars.githubusercontent.com/u/64619057?v=4" alt="Michael's GitHub Avatar" width="50px" style="border-radius:50%"/> Michael</a>!
-  <img align="right" src="https://komarev.com/ghpvc/?username=mplaczek99&style=flat-square&color=0e75b6" alt="GitHub profile views counter"/>
+  Hey, I'm Michael!
 </h1>
 
 <div>
@@ -97,7 +96,7 @@
 ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px" align="center" alt="Chart Emoji"/> GitHub Stats:</div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mplaczek99&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="Michael's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mplaczek99&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&hide_rank=true" alt="Michael's GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mplaczek99&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages"/>
 </div>
 
